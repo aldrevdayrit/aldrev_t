@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.MenuWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Menu Widget</label>
+  <description>menu widget</description>
+</widget>

@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.GoogleMap2Widget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Google Map ver2</label>
+  <description>google Map ver2</description>
+</widget>
