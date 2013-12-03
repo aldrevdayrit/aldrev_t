@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.EmployeeWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>employee details</label>
+  <description>employee details</description>
+</widget>

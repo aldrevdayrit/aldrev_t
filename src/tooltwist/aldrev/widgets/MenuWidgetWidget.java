@@ -135,7 +135,7 @@ public class MenuWidgetWidget extends WbdWidgetController {
 		// SNIPPET_PRODUCTION);
 		//get current navpoint
 		String currentNavpoint = WbdSession.getNavpointId(ud.getCredentials());
-		Navpoint menuNav = WbdCache.findNavPoint("ttdemo-15", true);
+		Navpoint menuNav = WbdCache.findNavPoint("ttdemo-26", true);
 		
 		rh.append("<div id='cssmenu'>");
 		rh.append("<ul>");

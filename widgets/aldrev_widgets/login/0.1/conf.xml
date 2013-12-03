@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.LoginWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>login</label>
+  <description>login</description>
+</widget>
