@@ -29,6 +29,7 @@ public class LoginInterceptor extends WbdInterceptor {
 				 
 		Object isLoggedIn = request.getSession().getAttribute("isLoggedIn");
 		
+		
 		if ((isLoggedIn == null || !(Boolean)isLoggedIn)) {
 			response.sendRedirect("/ttsvr/n/ttdemo-19");
 		}
