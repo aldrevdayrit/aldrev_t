@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.aldrev.requestHandlers.ContactRequestHandler</class>
+	<description>Contact Request Handler</description>
+</requestHandler>

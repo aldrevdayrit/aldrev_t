@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.DynamicEmployeeListWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>dynamicEmployeeList</label>
+  <description>dynamicEmployeeList</description>
+</widget>

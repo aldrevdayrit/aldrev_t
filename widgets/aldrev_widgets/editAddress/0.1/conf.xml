@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.EditAddressWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>editAddress</label>
+  <description>editAddress</description>
+</widget>

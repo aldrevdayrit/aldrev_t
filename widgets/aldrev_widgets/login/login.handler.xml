@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.aldrev.requestHandlers.LoginRequestHandler</class>
+	<description>login Request Handler</description>
+</requestHandler>

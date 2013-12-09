@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<entity>
+    <tableName>contactInfo</tableName>
+    <attribute>
+        <name>cellphoneNo</name>
+        <sequence>2</sequence>
+        <columnLength>200</columnLength>
+        <typeScopeType>P</typeScopeType>
+        <typeAttribute>VARCHAR</typeAttribute>
+    </attribute>
+    <attribute>
+        <name>companyNo</name>
+        <sequence>3</sequence>
+        <columnLength>200</columnLength>
+        <typeScopeType>P</typeScopeType>
+        <typeAttribute>VARCHAR</typeAttribute>
+    </attribute>
+    <attribute>
+        <name>contactId</name>
+        <sequence>0</sequence>
+        <uniqueKey>Y</uniqueKey>
+        <primaryKey>Y</primaryKey>
+        <typeScopeType>P</typeScopeType>
+        <typeAttribute>IDENTITY</typeAttribute>
+    </attribute>
+    <attribute>
+        <name>homeNo</name>
+        <sequence>1</sequence>
+        <columnLength>200</columnLength>
+        <typeScopeType>P</typeScopeType>
+        <typeAttribute>VARCHAR</typeAttribute>
+    </attribute>
+    <attribute>
+        <name>employeeId</name>
+        <sequence>4</sequence>
+        <linkedEntity>employee</linkedEntity>
+    </attribute>
+</entity>

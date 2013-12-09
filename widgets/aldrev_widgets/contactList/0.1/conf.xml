@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.ContactListWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>contactList</label>
+  <description>contactList</description>
+</widget>

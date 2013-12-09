@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.aldrev.widgets.AddressListWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>addressList</label>
+  <description>addressList</description>
+</widget>

@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.aldrev.requestHandlers.EditAddressRequestHandler</class>
+	<description>edit address request handler</description>
+</requestHandler>

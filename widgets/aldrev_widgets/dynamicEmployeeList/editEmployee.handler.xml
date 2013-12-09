@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.aldrev.requestHandlers.EditEmployeeRequestHandler</class>
+	<description>edit employee request handler</description>
+</requestHandler>
